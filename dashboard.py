@@ -8,11 +8,10 @@ from db import (
 )
 from models import JobState
 
-# Create the Flask app
+
 app = Flask(__name__)
 
-# This is a simple HTML template for the dashboard
-# We embed it here to avoid needing a separate file
+
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
