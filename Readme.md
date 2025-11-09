@@ -1,6 +1,6 @@
 # 🚀 QueueCTL: A Resilient CLI Job Queue System
 
-**[➡️ Click Here for the Live CLI Demo Video]([https.drive.google.com/file/d/1cUV3p64_2HJMT_wZpkKYdxKvlDQyz9lY/view?usp=drive_link](https://drive.google.com/file/d/1cUV3p64_2HJMT_wZpkKYdxKvlDQyz9lY/view?usp=sharing))**
+**[➡️ Click Here for the Live CLI Demo Video](https://drive.google.com/file/d/1cUV3p64_2HJMT_wZpkKYdxKvlDQyz9lY/view?usp=drive_link)**
 
 This repository contains a complete, end-to-end background job queue system named `queuectl`. The objective is to build and demonstrate a production-grade, CLI-based tool capable of managing parallel background jobs, handling failures with retries, and providing robust monitoring.
 
