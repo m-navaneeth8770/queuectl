@@ -255,9 +255,7 @@ cli.add_command(config)
 
 @cli.command()
 def dashboard():
-    """
-    Runs a minimal web dashboard to monitor the queue.
-    """
+    
     try:
         run_dashboard()
     except ImportError:
